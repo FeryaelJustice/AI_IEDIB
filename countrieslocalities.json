@@ -1,0 +1,3038 @@
+[
+  {
+    "name_en": "Afghanistan",
+    "name_es": "Afganistán",
+    "localities": [
+      {
+        "name_en": "Kabul",
+        "name_es": "Kabul"
+      },
+      {
+        "name_en": "Herat",
+        "name_es": "Herat"
+      },
+      {
+        "name_en": "Kandahar",
+        "name_es": "Kandahar"
+      }
+    ]
+  },
+  {
+    "name_en": "South Africa",
+    "name_es": "Sudáfrica",
+    "localities": [
+      {
+        "name_en": "Pretoria",
+        "name_es": "Pretoria"
+      },
+      {
+        "name_en": "Cape Town",
+        "name_es": "Ciudad del Cabo"
+      },
+      {
+        "name_en": "Bloemfontein",
+        "name_es": "Bloemfontein"
+      },
+      {
+        "name_en": "Johannesburg",
+        "name_es": "Johannesburgo"
+      },
+      {
+        "name_en": "Durban",
+        "name_es": "Durban"
+      }
+    ]
+  },
+  {
+    "name_en": "Albania",
+    "name_es": "Albania",
+    "localities": [
+      {
+        "name_en": "Tirana",
+        "name_es": "Tirana"
+      }
+    ]
+  },
+  {
+    "name_en": "Germany",
+    "name_es": "Alemania",
+    "localities": [
+      {
+        "name_en": "Berlin",
+        "name_es": "Berlín"
+      },
+      {
+        "name_en": "Hamburg",
+        "name_es": "Hamburgo"
+      },
+      {
+        "name_en": "Munich",
+        "name_es": "Múnich"
+      },
+      {
+        "name_en": "Cologne",
+        "name_es": "Colonia"
+      },
+      {
+        "name_en": "Frankfurt",
+        "name_es": "Fráncfort"
+      }
+    ]
+  },
+  {
+    "name_en": "Andorra",
+    "name_es": "Andorra",
+    "localities": [
+      {
+        "name_en": "Andorra la Vella",
+        "name_es": "Andorra la Vieja"
+      },
+      {
+        "name_en": "Escaldes-Engordany",
+        "name_es": "Escaldes-Engordany"
+      }
+    ]
+  },
+  {
+    "name_en": "Angola",
+    "name_es": "Angola",
+    "localities": [
+      {
+        "name_en": "Luanda",
+        "name_es": "Luanda"
+      },
+      {
+        "name_en": "Huambo",
+        "name_es": "Huambo"
+      }
+    ]
+  },
+  {
+    "name_en": "Antigua and Barbuda",
+    "name_es": "Antigua y Barbuda",
+    "localities": [
+      {
+        "name_en": "Saint John's",
+        "name_es": "Saint John’s"
+      }
+    ]
+  },
+  {
+    "name_en": "Netherlands Antilles",
+    "name_es": "Antillas Neerlandesas",
+    "localities": [
+      {
+        "name_en": "Willemstad",
+        "name_es": "Willemstad"
+      }
+    ]
+  },
+  {
+    "name_en": "Saudi Arabia",
+    "name_es": "Arabia Saudí",
+    "localities": [
+      {
+        "name_en": "Riyadh",
+        "name_es": "Riad"
+      },
+      {
+        "name_en": "Jeddah",
+        "name_es": "Yeda"
+      },
+      {
+        "name_en": "Mecca",
+        "name_es": "La Meca"
+      }
+    ]
+  },
+  {
+    "name_en": "Algeria",
+    "name_es": "Argelia",
+    "localities": [
+      {
+        "name_en": "Algiers",
+        "name_es": "Argel"
+      },
+      {
+        "name_en": "Oran",
+        "name_es": "Orán"
+      },
+      {
+        "name_en": "Constantine",
+        "name_es": "Constantina"
+      }
+    ]
+  },
+  {
+    "name_en": "Argentina",
+    "name_es": "Argentina",
+    "localities": [
+      {
+        "name_en": "Buenos Aires",
+        "name_es": "Buenos Aires"
+      },
+      {
+        "name_en": "Córdoba",
+        "name_es": "Córdoba"
+      },
+      {
+        "name_en": "Rosario",
+        "name_es": "Rosario"
+      },
+      {
+        "name_en": "Mendoza",
+        "name_es": "Mendoza"
+      }
+    ]
+  },
+  {
+    "name_en": "Armenia",
+    "name_es": "Armenia",
+    "localities": [
+      {
+        "name_en": "Yerevan",
+        "name_es": "Ereván"
+      },
+      {
+        "name_en": "Gyumri",
+        "name_es": "Guiumri"
+      }
+    ]
+  },
+  {
+    "name_en": "Aruba",
+    "name_es": "Aruba",
+    "localities": [
+      {
+        "name_en": "Oranjestad",
+        "name_es": "Oranjestad"
+      }
+    ]
+  },
+  {
+    "name_en": "Australia",
+    "name_es": "Australia",
+    "localities": [
+      {
+        "name_en": "Canberra",
+        "name_es": "Canberra"
+      },
+      {
+        "name_en": "Sydney",
+        "name_es": "Sídney"
+      },
+      {
+        "name_en": "Melbourne",
+        "name_es": "Melbourne"
+      },
+      {
+        "name_en": "Brisbane",
+        "name_es": "Brisbane"
+      },
+      {
+        "name_en": "Perth",
+        "name_es": "Perth"
+      },
+      {
+        "name_en": "Adelaide",
+        "name_es": "Adelaida"
+      }
+    ]
+  },
+  {
+    "name_en": "Azerbaijan",
+    "name_es": "Azerbaiyán",
+    "localities": [
+      {
+        "name_en": "Baku",
+        "name_es": "Bakú"
+      }
+    ]
+  },
+  {
+    "name_en": "Bahamas",
+    "name_es": "Bahamas",
+    "localities": [
+      {
+        "name_en": "Nassau",
+        "name_es": "Nasáu"
+      }
+    ]
+  },
+  {
+    "name_en": "Bahrain",
+    "name_es": "Baréin",
+    "localities": [
+      {
+        "name_en": "Manama",
+        "name_es": "Manama"
+      }
+    ]
+  },
+  {
+    "name_en": "Bangladesh",
+    "name_es": "Bangladés",
+    "localities": [
+      {
+        "name_en": "Dhaka",
+        "name_es": "Daca"
+      },
+      {
+        "name_en": "Chittagong",
+        "name_es": "Chittagong"
+      }
+    ]
+  },
+  {
+    "name_en": "Barbados",
+    "name_es": "Barbados",
+    "localities": [
+      {
+        "name_en": "Bridgetown",
+        "name_es": "Bridgetown"
+      }
+    ]
+  },
+  {
+    "name_en": "Belgium",
+    "name_es": "Bélgica",
+    "localities": [
+      {
+        "name_en": "Brussels",
+        "name_es": "Bruselas"
+      },
+      {
+        "name_en": "Antwerp",
+        "name_es": "Amberes"
+      },
+      {
+        "name_en": "Ghent",
+        "name_es": "Gante"
+      }
+    ]
+  },
+  {
+    "name_en": "Belize",
+    "name_es": "Belice",
+    "localities": [
+      {
+        "name_en": "Belmopan",
+        "name_es": "Belmopán"
+      }
+    ]
+  },
+  {
+    "name_en": "Benin",
+    "name_es": "Benín",
+    "localities": [
+      {
+        "name_en": "Porto-Novo",
+        "name_es": "Porto-Novo"
+      },
+      {
+        "name_en": "Cotonou",
+        "name_es": "Cotonú"
+      }
+    ]
+  },
+  {
+    "name_en": "Bhutan",
+    "name_es": "Bután",
+    "localities": [
+      {
+        "name_en": "Thimphu",
+        "name_es": "Timbu"
+      }
+    ]
+  },
+  {
+    "name_en": "Belarus",
+    "name_es": "Bielorrusia",
+    "localities": [
+      {
+        "name_en": "Minsk",
+        "name_es": "Minsk"
+      }
+    ]
+  },
+  {
+    "name_en": "Myanmar",
+    "name_es": "Birmania",
+    "localities": [
+      {
+        "name_en": "Naypyidaw",
+        "name_es": "Naypyidó"
+      },
+      {
+        "name_en": "Yangon",
+        "name_es": "Yangón"
+      },
+      {
+        "name_en": "Mandalay",
+        "name_es": "Mandalay"
+      }
+    ]
+  },
+  {
+    "name_en": "Bolivia",
+    "name_es": "Bolivia",
+    "localities": [
+      {
+        "name_en": "La Paz",
+        "name_es": "La Paz"
+      },
+      {
+        "name_en": "Sucre",
+        "name_es": "Sucre"
+      },
+      {
+        "name_en": "Santa Cruz de la Sierra",
+        "name_es": "Santa Cruz de la Sierra"
+      }
+    ]
+  },
+  {
+    "name_en": "Bosnia and Herzegovina",
+    "name_es": "Bosnia y Herzegovina",
+    "localities": [
+      {
+        "name_en": "Sarajevo",
+        "name_es": "Sarajevo"
+      },
+      {
+        "name_en": "Banja Luka",
+        "name_es": "Bania Luka"
+      }
+    ]
+  },
+  {
+    "name_en": "Botswana",
+    "name_es": "Botsuana",
+    "localities": [
+      {
+        "name_en": "Gaborone",
+        "name_es": "Gaborone"
+      }
+    ]
+  },
+  {
+    "name_en": "Brazil",
+    "name_es": "Brasil",
+    "localities": [
+      {
+        "name_en": "Brasilia",
+        "name_es": "Brasilia"
+      },
+      {
+        "name_en": "São Paulo",
+        "name_es": "São Paulo"
+      },
+      {
+        "name_en": "Rio de Janeiro",
+        "name_es": "Río de Janeiro"
+      },
+      {
+        "name_en": "Salvador",
+        "name_es": "Salvador"
+      },
+      {
+        "name_en": "Belo Horizonte",
+        "name_es": "Belo Horizonte"
+      },
+      {
+        "name_en": "Fortaleza",
+        "name_es": "Fortaleza"
+      }
+    ]
+  },
+  {
+    "name_en": "Brunei Darussalam",
+    "name_es": "Brunéi",
+    "localities": [
+      {
+        "name_en": "Bandar Seri Begawan",
+        "name_es": "Bandar Seri Begawan"
+      }
+    ]
+  },
+  {
+    "name_en": "Bulgaria",
+    "name_es": "Bulgaria",
+    "localities": [
+      {
+        "name_en": "Sofia",
+        "name_es": "Sofía"
+      },
+      {
+        "name_en": "Plovdiv",
+        "name_es": "Plovdiv"
+      }
+    ]
+  },
+  {
+    "name_en": "Burkina Faso",
+    "name_es": "Burkina Faso",
+    "localities": [
+      {
+        "name_en": "Ouagadougou",
+        "name_es": "Uagadugú"
+      }
+    ]
+  },
+  {
+    "name_en": "Burundi",
+    "name_es": "Burundi",
+    "localities": [
+      {
+        "name_en": "Gitega",
+        "name_es": "Gitega"
+      }
+    ]
+  },
+  {
+    "name_en": "Cape Verde",
+    "name_es": "Cabo Verde",
+    "localities": [
+      {
+        "name_en": "Praia",
+        "name_es": "Praia"
+      }
+    ]
+  },
+  {
+    "name_en": "Cambodia",
+    "name_es": "Camboya",
+    "localities": [
+      {
+        "name_en": "Phnom Penh",
+        "name_es": "Nom Pen"
+      }
+    ]
+  },
+  {
+    "name_en": "Cameroon",
+    "name_es": "Camerún",
+    "localities": [
+      {
+        "name_en": "Yaoundé",
+        "name_es": "Yaundé"
+      },
+      {
+        "name_en": "Douala",
+        "name_es": "Duala"
+      }
+    ]
+  },
+  {
+    "name_en": "Qatar",
+    "name_es": "Catar",
+    "localities": [
+      {
+        "name_en": "Doha",
+        "name_es": "Doha"
+      }
+    ]
+  },
+  {
+    "name_en": "Chad",
+    "name_es": "Chad",
+    "localities": [
+      {
+        "name_en": "N'Djamena",
+        "name_es": "Yamena"
+      }
+    ]
+  },
+  {
+    "name_en": "Chile",
+    "name_es": "Chile",
+    "localities": [
+      {
+        "name_en": "Santiago",
+        "name_es": "Santiago"
+      },
+      {
+        "name_en": "Valparaíso",
+        "name_es": "Valparaíso"
+      },
+      {
+        "name_en": "Concepción",
+        "name_es": "Concepción"
+      }
+    ]
+  },
+  {
+    "name_en": "China",
+    "name_es": "China",
+    "localities": [
+      {
+        "name_en": "Beijing",
+        "name_es": "Pekín"
+      },
+      {
+        "name_en": "Shanghai",
+        "name_es": "Shanghái"
+      },
+      {
+        "name_en": "Guangzhou",
+        "name_es": "Cantón"
+      },
+      {
+        "name_en": "Shenzhen",
+        "name_es": "Shenzhen"
+      },
+      {
+        "name_en": "Chongqing",
+        "name_es": "Chongqing"
+      }
+    ]
+  },
+  {
+    "name_en": "Cyprus",
+    "name_es": "Chipre",
+    "localities": [
+      {
+        "name_en": "Nicosia",
+        "name_es": "Nicosia"
+      },
+      {
+        "name_en": "Limassol",
+        "name_es": "Limassol"
+      }
+    ]
+  },
+  {
+    "name_en": "Colombia",
+    "name_es": "Colombia",
+    "localities": [
+      {
+        "name_en": "Bogotá",
+        "name_es": "Bogotá"
+      },
+      {
+        "name_en": "Medellín",
+        "name_es": "Medellín"
+      },
+      {
+        "name_en": "Cali",
+        "name_es": "Cali"
+      },
+      {
+        "name_en": "Barranquilla",
+        "name_es": "Barranquilla"
+      }
+    ]
+  },
+  {
+    "name_en": "Comoros",
+    "name_es": "Comoras",
+    "localities": [
+      {
+        "name_en": "Moroni",
+        "name_es": "Moroni"
+      }
+    ]
+  },
+  {
+    "name_en": "Congo",
+    "name_es": "Congo",
+    "localities": [
+      {
+        "name_en": "Brazzaville",
+        "name_es": "Brazzaville"
+      }
+    ]
+  },
+  {
+    "name_en": "Congo, The Democratic Republic of the",
+    "name_es": "República Democrática del Congo",
+    "localities": [
+      {
+        "name_en": "Kinshasa",
+        "name_es": "Kinsasa"
+      },
+      {
+        "name_en": "Lubumbashi",
+        "name_es": "Lubumbashi"
+      },
+      {
+        "name_en": "Mbuji-Mayi",
+        "name_es": "Mbuji-Mayi"
+      }
+    ]
+  },
+  {
+    "name_en": "North Korea",
+    "name_es": "Corea del Norte",
+    "localities": [
+      {
+        "name_en": "Pyongyang",
+        "name_es": "Pionyang"
+      }
+    ]
+  },
+  {
+    "name_en": "South Korea",
+    "name_es": "Corea del Sur",
+    "localities": [
+      {
+        "name_en": "Seoul",
+        "name_es": "Seúl"
+      },
+      {
+        "name_en": "Busan",
+        "name_es": "Busan"
+      },
+      {
+        "name_en": "Incheon",
+        "name_es": "Incheon"
+      },
+      {
+        "name_en": "Daegu",
+        "name_es": "Daegu"
+      }
+    ]
+  },
+  {
+    "name_en": "Ivory Coast",
+    "name_es": "Costa de Marfil",
+    "localities": [
+      {
+        "name_en": "Yamoussoukro",
+        "name_es": "Yamusukro"
+      },
+      {
+        "name_en": "Abidjan",
+        "name_es": "Abiyán"
+      },
+      {
+        "name_en": "Bouaké",
+        "name_es": "Buaké"
+      }
+    ]
+  },
+  {
+    "name_en": "Costa Rica",
+    "name_es": "Costa Rica",
+    "localities": [
+      {
+        "name_en": "San José",
+        "name_es": "San José"
+      }
+    ]
+  },
+  {
+    "name_en": "Croatia",
+    "name_es": "Croacia",
+    "localities": [
+      {
+        "name_en": "Zagreb",
+        "name_es": "Zagreb"
+      },
+      {
+        "name_en": "Split",
+        "name_es": "Split"
+      }
+    ]
+  },
+  {
+    "name_en": "Cuba",
+    "name_es": "Cuba",
+    "localities": [
+      {
+        "name_en": "Havana",
+        "name_es": "La Habana"
+      }
+    ]
+  },
+  {
+    "name_en": "Denmark",
+    "name_es": "Dinamarca",
+    "localities": [
+      {
+        "name_en": "Copenhagen",
+        "name_es": "Copenhague"
+      },
+      {
+        "name_en": "Aarhus",
+        "name_es": "Aarhus"
+      }
+    ]
+  },
+  {
+    "name_en": "Dominica",
+    "name_es": "Dominica",
+    "localities": [
+      {
+        "name_en": "Roseau",
+        "name_es": "Roseau"
+      }
+    ]
+  },
+  {
+    "name_en": "Ecuador",
+    "name_es": "Ecuador",
+    "localities": [
+      {
+        "name_en": "Quito",
+        "name_es": "Quito"
+      },
+      {
+        "name_en": "Guayaquil",
+        "name_es": "Guayaquil"
+      }
+    ]
+  },
+  {
+    "name_en": "Egypt",
+    "name_es": "Egipto",
+    "localities": [
+      {
+        "name_en": "Cairo",
+        "name_es": "El Cairo"
+      },
+      {
+        "name_en": "Alexandria",
+        "name_es": "Alejandría"
+      },
+      {
+        "name_en": "Giza",
+        "name_es": "Guiza"
+      }
+    ]
+  },
+  {
+    "name_en": "El Salvador",
+    "name_es": "El Salvador",
+    "localities": [
+      {
+        "name_en": "San Salvador",
+        "name_es": "San Salvador"
+      }
+    ]
+  },
+  {
+    "name_en": "United Arab Emirates",
+    "name_es": "Emiratos Árabes Unidos",
+    "localities": [
+      {
+        "name_en": "Abu Dhabi",
+        "name_es": "Abu Dabi"
+      },
+      {
+        "name_en": "Dubai",
+        "name_es": "Dubái"
+      }
+    ]
+  },
+  {
+    "name_en": "Eritrea",
+    "name_es": "Eritrea",
+    "localities": [
+      {
+        "name_en": "Asmara",
+        "name_es": "Asmara"
+      }
+    ]
+  },
+  {
+    "name_en": "Slovakia",
+    "name_es": "Eslovaquia",
+    "localities": [
+      {
+        "name_en": "Bratislava",
+        "name_es": "Bratislava"
+      },
+      {
+        "name_en": "Košice",
+        "name_es": "Kosice"
+      }
+    ]
+  },
+  {
+    "name_en": "Slovenia",
+    "name_es": "Eslovenia",
+    "localities": [
+      {
+        "name_en": "Ljubljana",
+        "name_es": "Liubliana"
+      },
+      {
+        "name_en": "Maribor",
+        "name_es": "Maribor"
+      }
+    ]
+  },
+  {
+    "name_en": "Spain",
+    "name_es": "España",
+    "localities": [
+      {
+        "name_en": "Madrid",
+        "name_es": "Madrid"
+      },
+      {
+        "name_en": "Barcelona",
+        "name_es": "Barcelona"
+      },
+      {
+        "name_en": "Valencia",
+        "name_es": "Valencia"
+      },
+      {
+        "name_en": "Seville",
+        "name_es": "Sevilla"
+      },
+      {
+        "name_en": "Zaragoza",
+        "name_es": "Zaragoza"
+      },
+      {
+        "name_en": "Málaga",
+        "name_es": "Málaga"
+      },
+      {
+        "name_en": "Murcia",
+        "name_es": "Murcia"
+      },
+      {
+        "name_en": "Palma",
+        "name_es": "Palma de Mallorca"
+      }
+    ]
+  },
+  {
+    "name_en": "United States",
+    "name_es": "Estados Unidos",
+    "localities": [
+      {
+        "name_en": "Washington D.C.",
+        "name_es": "Washington D. C."
+      },
+      {
+        "name_en": "New York City",
+        "name_es": "Nueva York"
+      },
+      {
+        "name_en": "Los Angeles",
+        "name_es": "Los Ángeles"
+      },
+      {
+        "name_en": "Chicago",
+        "name_es": "Chicago"
+      },
+      {
+        "name_en": "Houston",
+        "name_es": "Houston"
+      },
+      {
+        "name_en": "Phoenix",
+        "name_es": "Phoenix"
+      }
+    ]
+  },
+  {
+    "name_en": "Estonia",
+    "name_es": "Estonia",
+    "localities": [
+      {
+        "name_en": "Tallinn",
+        "name_es": "Tallin"
+      },
+      {
+        "name_en": "Tartu",
+        "name_es": "Tartu"
+      }
+    ]
+  },
+  {
+    "name_en": "Ethiopia",
+    "name_es": "Etiopía",
+    "localities": [
+      {
+        "name_en": "Addis Ababa",
+        "name_es": "Adís Abeba"
+      },
+      {
+        "name_en": "Dire Dawa",
+        "name_es": "Dire Dawa"
+      },
+      {
+        "name_en": "Mekelle",
+        "name_es": "Mekelle"
+      }
+    ]
+  },
+  {
+    "name_en": "Russian Federation",
+    "name_es": "Rusia",
+    "localities": [
+      {
+        "name_en": "Moscow",
+        "name_es": "Moscú"
+      },
+      {
+        "name_en": "Saint Petersburg",
+        "name_es": "San Petersburgo"
+      },
+      {
+        "name_en": "Novosibirsk",
+        "name_es": "Novosibirsk"
+      },
+      {
+        "name_en": "Yekaterinburg",
+        "name_es": "Ekaterimburgo"
+      },
+      {
+        "name_en": "Nizhny Novgorod",
+        "name_es": "Nizhni Nóvgorod"
+      }
+    ]
+  },
+  {
+    "name_en": "Fiji",
+    "name_es": "Fiyi",
+    "localities": [
+      {
+        "name_en": "Suva",
+        "name_es": "Suva"
+      }
+    ]
+  },
+  {
+    "name_en": "Philippines",
+    "name_es": "Filipinas",
+    "localities": [
+      {
+        "name_en": "Manila",
+        "name_es": "Manila"
+      },
+      {
+        "name_en": "Quezon City",
+        "name_es": "Quezon City"
+      },
+      {
+        "name_en": "Davao City",
+        "name_es": "Dávao"
+      },
+      {
+        "name_en": "Cebu City",
+        "name_es": "Cebú"
+      }
+    ]
+  },
+  {
+    "name_en": "Finland",
+    "name_es": "Finlandia",
+    "localities": [
+      {
+        "name_en": "Helsinki",
+        "name_es": "Helsinki"
+      },
+      {
+        "name_en": "Espoo",
+        "name_es": "Espoo"
+      },
+      {
+        "name_en": "Tampere",
+        "name_es": "Tampere"
+      }
+    ]
+  },
+  {
+    "name_en": "France",
+    "name_es": "Francia",
+    "localities": [
+      {
+        "name_en": "Paris",
+        "name_es": "París"
+      },
+      {
+        "name_en": "Marseille",
+        "name_es": "Marsella"
+      },
+      {
+        "name_en": "Lyon",
+        "name_es": "Lyon"
+      },
+      {
+        "name_en": "Toulouse",
+        "name_es": "Toulouse"
+      },
+      {
+        "name_en": "Nice",
+        "name_es": "Niza"
+      }
+    ]
+  },
+  {
+    "name_en": "Gabon",
+    "name_es": "Gabón",
+    "localities": [
+      {
+        "name_en": "Libreville",
+        "name_es": "Libreville"
+      }
+    ]
+  },
+  {
+    "name_en": "Gambia",
+    "name_es": "Gambia",
+    "localities": [
+      {
+        "name_en": "Banjul",
+        "name_es": "Banjul"
+      }
+    ]
+  },
+  {
+    "name_en": "Georgia",
+    "name_es": "Georgia",
+    "localities": [
+      {
+        "name_en": "Tbilisi",
+        "name_es": "Tiflis"
+      },
+      {
+        "name_en": "Batumi",
+        "name_es": "Batumi"
+      }
+    ]
+  },
+  {
+    "name_en": "Ghana",
+    "name_es": "Ghana",
+    "localities": [
+      {
+        "name_en": "Accra",
+        "name_es": "Acra"
+      },
+      {
+        "name_en": "Kumasi",
+        "name_es": "Kumasi"
+      }
+    ]
+  },
+  {
+    "name_en": "Gibraltar",
+    "name_es": "Gibraltar",
+    "localities": [
+      {
+        "name_en": "Gibraltar",
+        "name_es": "Gibraltar"
+      }
+    ]
+  },
+  {
+    "name_en": "Grenada",
+    "name_es": "Granada",
+    "localities": [
+      {
+        "name_en": "St. George's",
+        "name_es": "Saint George"
+      }
+    ]
+  },
+  {
+    "name_en": "Greece",
+    "name_es": "Grecia",
+    "localities": [
+      {
+        "name_en": "Athens",
+        "name_es": "Atenas"
+      },
+      {
+        "name_en": "Thessaloniki",
+        "name_es": "Salónica"
+      }
+    ]
+  },
+  {
+    "name_en": "Greenland",
+    "name_es": "Groenlandia",
+    "localities": [
+      {
+        "name_en": "Nuuk",
+        "name_es": "Nuuk"
+      }
+    ]
+  },
+  {
+    "name_en": "Guadeloupe",
+    "name_es": "Guadalupe",
+    "localities": [
+      {
+        "name_en": "Basse-Terre",
+        "name_es": "Basse-Terre"
+      }
+    ]
+  },
+  {
+    "name_en": "Guam",
+    "name_es": "Guam",
+    "localities": [
+      {
+        "name_en": "Hagåtña",
+        "name_es": "Hagåtña"
+      }
+    ]
+  },
+  {
+    "name_en": "Guatemala",
+    "name_es": "Guatemala",
+    "localities": [
+      {
+        "name_en": "Guatemala City",
+        "name_es": "Ciudad de Guatemala"
+      }
+    ]
+  },
+  {
+    "name_en": "Guernsey",
+    "name_es": "Guernesey",
+    "localities": [
+      {
+        "name_en": "St. Peter Port",
+        "name_es": "St. Peter Port"
+      }
+    ]
+  },
+  {
+    "name_en": "Equatorial Guinea",
+    "name_es": "Guinea Ecuatorial",
+    "localities": [
+      {
+        "name_en": "Malabo",
+        "name_es": "Malabo"
+      }
+    ]
+  },
+  {
+    "name_en": "Guinea",
+    "name_es": "Guinea",
+    "localities": [
+      {
+        "name_en": "Conakry",
+        "name_es": "Conakri"
+      }
+    ]
+  },
+  {
+    "name_en": "Guinea-Bissau",
+    "name_es": "Guinea-Bisáu",
+    "localities": [
+      {
+        "name_en": "Bissau",
+        "name_es": "Bisáu"
+      }
+    ]
+  },
+  {
+    "name_en": "Equatorial Guinea",
+    "name_es": "Guinea Ecuatorial",
+    "localities": [
+      {
+        "name_en": "Malabo",
+        "name_es": "Malabo"
+      }
+    ]
+  },
+  {
+    "name_en": "Guyana",
+    "name_es": "Guyana",
+    "localities": [
+      {
+        "name_en": "Georgetown",
+        "name_es": "Georgetown"
+      }
+    ]
+  },
+  {
+    "name_en": "French Guiana",
+    "name_es": "Guayana Francesa",
+    "localities": [
+      {
+        "name_en": "Cayenne",
+        "name_es": "Cayena"
+      }
+    ]
+  },
+  {
+    "name_en": "Haiti",
+    "name_es": "Haití",
+    "localities": [
+      {
+        "name_en": "Port-au-Prince",
+        "name_es": "Puerto Príncipe"
+      }
+    ]
+  },
+  {
+    "name_en": "Honduras",
+    "name_es": "Honduras",
+    "localities": [
+      {
+        "name_en": "Tegucigalpa",
+        "name_es": "Tegucigalpa"
+      }
+    ]
+  },
+  {
+    "name_en": "Hong Kong",
+    "name_es": "Hong Kong",
+    "localities": [
+      {
+        "name_en": "Hong Kong",
+        "name_es": "Hong Kong"
+      }
+    ]
+  },
+  {
+    "name_en": "Hungary",
+    "name_es": "Hungría",
+    "localities": [
+      {
+        "name_en": "Budapest",
+        "name_es": "Budapest"
+      },
+      {
+        "name_en": "Debrecen",
+        "name_es": "Debrecen"
+      }
+    ]
+  },
+  {
+    "name_en": "India",
+    "name_es": "India",
+    "localities": [
+      {
+        "name_en": "New Delhi",
+        "name_es": "Nueva Delhi"
+      },
+      {
+        "name_en": "Mumbai",
+        "name_es": "Bombay"
+      },
+      {
+        "name_en": "Delhi",
+        "name_es": "Delhi"
+      },
+      {
+        "name_en": "Bangalore",
+        "name_es": "Bangalore"
+      },
+      {
+        "name_en": "Kolkata",
+        "name_es": "Calcuta"
+      },
+      {
+        "name_en": "Chennai",
+        "name_es": "Chennai"
+      }
+    ]
+  },
+  {
+    "name_en": "Indonesia",
+    "name_es": "Indonesia",
+    "localities": [
+      {
+        "name_en": "Jakarta",
+        "name_es": "Yakarta"
+      },
+      {
+        "name_en": "Surabaya",
+        "name_es": "Surabaya"
+      },
+      {
+        "name_en": "Bandung",
+        "name_es": "Bandung"
+      },
+      {
+        "name_en": "Medan",
+        "name_es": "Medan"
+      }
+    ]
+  },
+  {
+    "name_en": "Iran",
+    "name_es": "Irán",
+    "localities": [
+      {
+        "name_en": "Tehran",
+        "name_es": "Teherán"
+      },
+      {
+        "name_en": "Mashhad",
+        "name_es": "Mashhad"
+      },
+      {
+        "name_en": "Isfahan",
+        "name_es": "Isfahán"
+      },
+      {
+        "name_en": "Karaj",
+        "name_es": "Karaj"
+      }
+    ]
+  },
+  {
+    "name_en": "Iraq",
+    "name_es": "Iraq",
+    "localities": [
+      {
+        "name_en": "Baghdad",
+        "name_es": "Bagdad"
+      },
+      {
+        "name_en": "Mosul",
+        "name_es": "Mosul"
+      },
+      {
+        "name_en": "Basra",
+        "name_es": "Basora"
+      }
+    ]
+  },
+  {
+    "name_en": "Ireland",
+    "name_es": "Irlanda",
+    "localities": [
+      {
+        "name_en": "Dublin",
+        "name_es": "Dublín"
+      },
+      {
+        "name_en": "Cork",
+        "name_es": "Cork"
+      }
+    ]
+  },
+  {
+    "name_en": "Iceland",
+    "name_es": "Islandia",
+    "localities": [
+      {
+        "name_en": "Reykjavik",
+        "name_es": "Reikiavik"
+      }
+    ]
+  },
+  {
+    "name_en": "Cayman Islands",
+    "name_es": "Islas Caimán",
+    "localities": [
+      {
+        "name_en": "George Town",
+        "name_es": "George Town"
+      }
+    ]
+  },
+  {
+    "name_en": "Cook Islands",
+    "name_es": "Islas Cook",
+    "localities": [
+      {
+        "name_en": "Avarua",
+        "name_es": "Avarua"
+      }
+    ]
+  },
+  {
+    "name_en": "Faroe Islands",
+    "name_es": "Islas Feroe",
+    "localities": [
+      {
+        "name_en": "Tórshavn",
+        "name_es": "Tórshavn"
+      }
+    ]
+  },
+  {
+    "name_en": "Northern Mariana Islands",
+    "name_es": "Islas Marianas del Norte",
+    "localities": [
+      {
+        "name_en": "Saipan",
+        "name_es": "Saipán"
+      }
+    ]
+  },
+  {
+    "name_en": "Marshall Islands",
+    "name_es": "Islas Marshall",
+    "localities": [
+      {
+        "name_en": "Majuro",
+        "name_es": "Majuro"
+      }
+    ]
+  },
+  {
+    "name_en": "Pitcairn",
+    "name_es": "Islas Pitcairn",
+    "localities": [
+      {
+        "name_en": "Adamstown",
+        "name_es": "Adamstown"
+      }
+    ]
+  },
+  {
+    "name_en": "Solomon Islands",
+    "name_es": "Islas Salomón",
+    "localities": [
+      {
+        "name_en": "Honiara",
+        "name_es": "Honiara"
+      }
+    ]
+  },
+  {
+    "name_en": "Turks and Caicos Islands",
+    "name_es": "Islas Turcas y Caicos",
+    "localities": [
+      {
+        "name_en": "Cockburn Town",
+        "name_es": "Cockburn Town"
+      }
+    ]
+  },
+  {
+    "name_en": "British Virgin Islands",
+    "name_es": "Islas Vírgenes Británicas",
+    "localities": [
+      {
+        "name_en": "Road Town",
+        "name_es": "Road Town"
+      }
+    ]
+  },
+  {
+    "name_en": "United States Virgin Islands",
+    "name_es": "Islas Vírgenes de los Estados Unidos",
+    "localities": [
+      {
+        "name_en": "Charlotte Amalie",
+        "name_es": "Charlotte Amalie"
+      }
+    ]
+  },
+  {
+    "name_en": "Israel",
+    "name_es": "Israel",
+    "localities": [
+      {
+        "name_en": "Jerusalem",
+        "name_es": "Jerusalén"
+      },
+      {
+        "name_en": "Tel Aviv",
+        "name_es": "Tel Aviv"
+      }
+    ]
+  },
+  {
+    "name_en": "Italy",
+    "name_es": "Italia",
+    "localities": [
+      {
+        "name_en": "Rome",
+        "name_es": "Roma"
+      },
+      {
+        "name_en": "Milan",
+        "name_es": "Milán"
+      },
+      {
+        "name_en": "Naples",
+        "name_es": "Nápoles"
+      },
+      {
+        "name_en": "Turin",
+        "name_es": "Turín"
+      }
+    ]
+  },
+  {
+    "name_en": "Jamaica",
+    "name_es": "Jamaica",
+    "localities": [
+      {
+        "name_en": "Kingston",
+        "name_es": "Kingston"
+      }
+    ]
+  },
+  {
+    "name_en": "Japan",
+    "name_es": "Japón",
+    "localities": [
+      {
+        "name_en": "Tokyo",
+        "name_es": "Tokio"
+      },
+      {
+        "name_en": "Yokohama",
+        "name_es": "Yokohama"
+      },
+      {
+        "name_en": "Osaka",
+        "name_es": "Osaka"
+      },
+      {
+        "name_en": "Nagoya",
+        "name_es": "Nagoya"
+      },
+      {
+        "name_en": "Sapporo",
+        "name_es": "Sapporo"
+      }
+    ]
+  },
+  {
+    "name_en": "Jersey",
+    "name_es": "Jersey",
+    "localities": [
+      {
+        "name_en": "Saint Helier",
+        "name_es": "Saint Helier"
+      }
+    ]
+  },
+  {
+    "name_en": "Jordan",
+    "name_es": "Jordania",
+    "localities": [
+      {
+        "name_en": "Amman",
+        "name_es": "Amán"
+      }
+    ]
+  },
+  {
+    "name_en": "Kazakhstan",
+    "name_es": "Kazajistán",
+    "localities": [
+      {
+        "name_en": "Astana",
+        "name_es": "Astaná"
+      },
+      {
+        "name_en": "Almaty",
+        "name_es": "Almaty"
+      },
+      {
+        "name_en": "Shymkent",
+        "name_es": "Shymkent"
+      }
+    ]
+  },
+  {
+    "name_en": "Kenya",
+    "name_es": "Kenia",
+    "localities": [
+      {
+        "name_en": "Nairobi",
+        "name_es": "Nairobi"
+      },
+      {
+        "name_en": "Mombasa",
+        "name_es": "Mombasa"
+      }
+    ]
+  },
+  {
+    "name_en": "Kyrgyzstan",
+    "name_es": "Kirguistán",
+    "localities": [
+      {
+        "name_en": "Bishkek",
+        "name_es": "Biskek"
+      }
+    ]
+  },
+  {
+    "name_en": "Kiribati",
+    "name_es": "Kiribati",
+    "localities": [
+      {
+        "name_en": "Tarawa",
+        "name_es": "Tarawa"
+      }
+    ]
+  },
+  {
+    "name_en": "Kosovo",
+    "name_es": "Kosovo",
+    "localities": [
+      {
+        "name_en": "Pristina",
+        "name_es": "Pristina"
+      },
+      {
+        "name_en": "Prizren",
+        "name_es": "Prizren"
+      }
+    ]
+  },
+  {
+    "name_en": "Kuwait",
+    "name_es": "Kuwait",
+    "localities": [
+      {
+        "name_en": "Kuwait City",
+        "name_es": "Kuwait"
+      }
+    ]
+  },
+  {
+    "name_en": "Laos",
+    "name_es": "Laos",
+    "localities": [
+      {
+        "name_en": "Vientiane",
+        "name_es": "Vientián"
+      }
+    ]
+  },
+  {
+    "name_en": "Lesotho",
+    "name_es": "Lesoto",
+    "localities": [
+      {
+        "name_en": "Maseru",
+        "name_es": "Maseru"
+      }
+    ]
+  },
+  {
+    "name_en": "Latvia",
+    "name_es": "Letonia",
+    "localities": [
+      {
+        "name_en": "Riga",
+        "name_es": "Riga"
+      },
+      {
+        "name_en": "Daugavpils",
+        "name_es": "Daugavpils"
+      }
+    ]
+  },
+  {
+    "name_en": "Lebanon",
+    "name_es": "Líbano",
+    "localities": [
+      {
+        "name_en": "Beirut",
+        "name_es": "Beirut"
+      }
+    ]
+  },
+  {
+    "name_en": "Liberia",
+    "name_es": "Liberia",
+    "localities": [
+      {
+        "name_en": "Monrovia",
+        "name_es": "Monrovia"
+      }
+    ]
+  },
+  {
+    "name_en": "Libya",
+    "name_es": "Libia",
+    "localities": [
+      {
+        "name_en": "Tripoli",
+        "name_es": "Trípoli"
+      }
+    ]
+  },
+  {
+    "name_en": "Liechtenstein",
+    "name_es": "Liechtenstein",
+    "localities": [
+      {
+        "name_en": "Vaduz",
+        "name_es": "Vaduz"
+      },
+      {
+        "name_en": "Schaan",
+        "name_es": "Schaan"
+      }
+    ]
+  },
+  {
+    "name_en": "Lithuania",
+    "name_es": "Lituania",
+    "localities": [
+      {
+        "name_en": "Vilnius",
+        "name_es": "Vilna"
+      },
+      {
+        "name_en": "Kaunas",
+        "name_es": "Kaunas"
+      }
+    ]
+  },
+  {
+    "name_en": "Luxembourg",
+    "name_es": "Luxemburgo",
+    "localities": [
+      {
+        "name_en": "Luxembourg",
+        "name_es": "Luxemburgo"
+      },
+      {
+        "name_en": "Esch-sur-Alzette",
+        "name_es": "Esch-sur-Alzette"
+      }
+    ]
+  },
+  {
+    "name_en": "Macao",
+    "name_es": "Macao",
+    "localities": [
+      {
+        "name_en": "Macau",
+        "name_es": "Macao"
+      }
+    ]
+  },
+  {
+    "name_en": "North Macedonia",
+    "name_es": "Macedonia del Norte",
+    "localities": [
+      {
+        "name_en": "Skopje",
+        "name_es": "Skopie"
+      }
+    ]
+  },
+  {
+    "name_en": "Madagascar",
+    "name_es": "Madagascar",
+    "localities": [
+      {
+        "name_en": "Antananarivo",
+        "name_es": "Antananarivo"
+      },
+      {
+        "name_en": "Antsirabe",
+        "name_es": "Antsirabe"
+      },
+      {
+        "name_en": "Toamasina",
+        "name_es": "Toamasina"
+      },
+      {
+        "name_en": "Mahajanga",
+        "name_es": "Mahajanga"
+      }
+    ]
+  },
+  {
+    "name_en": "Malaysia",
+    "name_es": "Malasia",
+    "localities": [
+      {
+        "name_en": "Kuala Lumpur",
+        "name_es": "Kuala Lumpur"
+      },
+      {
+        "name_en": "Putrajaya",
+        "name_es": "Putrajaya"
+      },
+      {
+        "name_en": "George Town",
+        "name_es": "George Town"
+      },
+      {
+        "name_en": "Johor Bahru",
+        "name_es": "Johor Bahru"
+      }
+    ]
+  },
+  {
+    "name_en": "Malawi",
+    "name_es": "Malaui",
+    "localities": [
+      {
+        "name_en": "Lilongwe",
+        "name_es": "Lilongüe"
+      }
+    ]
+  },
+  {
+    "name_en": "Maldives",
+    "name_es": "Maldivas",
+    "localities": [
+      {
+        "name_en": "Malé",
+        "name_es": "Malé"
+      }
+    ]
+  },
+  {
+    "name_en": "Mali",
+    "name_es": "Malí",
+    "localities": [
+      {
+        "name_en": "Bamako",
+        "name_es": "Bamako"
+      }
+    ]
+  },
+  {
+    "name_en": "Malta",
+    "name_es": "Malta",
+    "localities": [
+      {
+        "name_en": "Valletta",
+        "name_es": "La Valeta"
+      },
+      {
+        "name_en": "Birkirkara",
+        "name_es": "Birkirkara"
+      }
+    ]
+  },
+  {
+    "name_en": "Morocco",
+    "name_es": "Marruecos",
+    "localities": [
+      {
+        "name_en": "Rabat",
+        "name_es": "Rabat"
+      },
+      {
+        "name_en": "Casablanca",
+        "name_es": "Casablanca"
+      },
+      {
+        "name_en": "Fez",
+        "name_es": "Fez"
+      },
+      {
+        "name_en": "Marrakech",
+        "name_es": "Marrakech"
+      }
+    ]
+  },
+  {
+    "name_en": "Martinique",
+    "name_es": "Martinica",
+    "localities": [
+      {
+        "name_en": "Fort-de-France",
+        "name_es": "Fort-de-France"
+      }
+    ]
+  },
+  {
+    "name_en": "Mauritius",
+    "name_es": "Mauricio",
+    "localities": [
+      {
+        "name_en": "Port Louis",
+        "name_es": "Port Louis"
+      }
+    ]
+  },
+  {
+    "name_en": "Mauritania",
+    "name_es": "Mauritania",
+    "localities": [
+      {
+        "name_en": "Nouakchott",
+        "name_es": "Nuakchot"
+      }
+    ]
+  },
+  {
+    "name_en": "Mexico",
+    "name_es": "México",
+    "localities": [
+      {
+        "name_en": "Mexico City",
+        "name_es": "Ciudad de México"
+      },
+      {
+        "name_en": "Guadalajara",
+        "name_es": "Guadalajara"
+      },
+      {
+        "name_en": "Monterrey",
+        "name_es": "Monterrey"
+      },
+      {
+        "name_en": "Puebla",
+        "name_es": "Puebla"
+      },
+      {
+        "name_en": "Tijuana",
+        "name_es": "Tijuana"
+      }
+    ]
+  },
+  {
+    "name_en": "Micronesia, Federated States of",
+    "name_es": "Micronesia",
+    "localities": [
+      {
+        "name_en": "Palikir",
+        "name_es": "Palikir"
+      }
+    ]
+  },
+  {
+    "name_en": "Moldova",
+    "name_es": "Moldavia",
+    "localities": [
+      {
+        "name_en": "Chișinău",
+        "name_es": "Chisináu"
+      }
+    ]
+  },
+  {
+    "name_en": "Monaco",
+    "name_es": "Mónaco",
+    "localities": [
+      {
+        "name_en": "Monaco",
+        "name_es": "Mónaco"
+      }
+    ]
+  },
+  {
+    "name_en": "Mongolia",
+    "name_es": "Mongolia",
+    "localities": [
+      {
+        "name_en": "Ulaanbaatar",
+        "name_es": "Ulán Bator"
+      },
+      {
+        "name_en": "Erdenet",
+        "name_es": "Erdenet"
+      }
+    ]
+  },
+  {
+    "name_en": "Montserrat",
+    "name_es": "Montserrat",
+    "localities": [
+      {
+        "name_en": "Plymouth",
+        "name_es": "Plymouth"
+      }
+    ]
+  },
+  {
+    "name_en": "Mozambique",
+    "name_es": "Mozambique",
+    "localities": [
+      {
+        "name_en": "Maputo",
+        "name_es": "Maputo"
+      },
+      {
+        "name_en": "Matola",
+        "name_es": "Matola"
+      },
+      {
+        "name_en": "Beira",
+        "name_es": "Beira"
+      }
+    ]
+  },
+  {
+    "name_en": "Namibia",
+    "name_es": "Namibia",
+    "localities": [
+      {
+        "name_en": "Windhoek",
+        "name_es": "Windhoek"
+      }
+    ]
+  },
+  {
+    "name_en": "Nauru",
+    "name_es": "Nauru",
+    "localities": [
+      {
+        "name_en": "Yaren",
+        "name_es": "Yaren"
+      }
+    ]
+  },
+  {
+    "name_en": "Nepal",
+    "name_es": "Nepal",
+    "localities": [
+      {
+        "name_en": "Kathmandu",
+        "name_es": "Katmandú"
+      },
+      {
+        "name_en": "Pokhara",
+        "name_es": "Pokhara"
+      }
+    ]
+  },
+  {
+    "name_en": "Nicaragua",
+    "name_es": "Nicaragua",
+    "localities": [
+      {
+        "name_en": "Managua",
+        "name_es": "Managua"
+      }
+    ]
+  },
+  {
+    "name_en": "Niger",
+    "name_es": "Níger",
+    "localities": [
+      {
+        "name_en": "Niamey",
+        "name_es": "Niamey"
+      }
+    ]
+  },
+  {
+    "name_en": "Nigeria",
+    "name_es": "Nigeria",
+    "localities": [
+      {
+        "name_en": "Abuja",
+        "name_es": "Abuya"
+      },
+      {
+        "name_en": "Lagos",
+        "name_es": "Lagos"
+      },
+      {
+        "name_en": "Kano",
+        "name_es": "Kano"
+      },
+      {
+        "name_en": "Ibadan",
+        "name_es": "Ibadan"
+      }
+    ]
+  },
+  {
+    "name_en": "Norway",
+    "name_es": "Noruega",
+    "localities": [
+      {
+        "name_en": "Oslo",
+        "name_es": "Oslo"
+      },
+      {
+        "name_en": "Bergen",
+        "name_es": "Bergen"
+      }
+    ]
+  },
+  {
+    "name_en": "New Caledonia",
+    "name_es": "Nueva Caledonia",
+    "localities": [
+      {
+        "name_en": "Nouméa",
+        "name_es": "Numea"
+      }
+    ]
+  },
+  {
+    "name_en": "New Zealand",
+    "name_es": "Nueva Zelanda",
+    "localities": [
+      {
+        "name_en": "Wellington",
+        "name_es": "Wellington"
+      },
+      {
+        "name_en": "Auckland",
+        "name_es": "Auckland"
+      },
+      {
+        "name_en": "Christchurch",
+        "name_es": "Christchurch"
+      }
+    ]
+  },
+  {
+    "name_en": "Oman",
+    "name_es": "Omán",
+    "localities": [
+      {
+        "name_en": "Muscat",
+        "name_es": "Mascate"
+      }
+    ]
+  },
+  {
+    "name_en": "Netherlands",
+    "name_es": "Países Bajos",
+    "localities": [
+      {
+        "name_en": "Amsterdam",
+        "name_es": "Ámsterdam"
+      },
+      {
+        "name_en": "The Hague",
+        "name_es": "La Haya"
+      },
+      {
+        "name_en": "Rotterdam",
+        "name_es": "Róterdam"
+      }
+    ]
+  },
+  {
+    "name_en": "Pakistan",
+    "name_es": "Pakistán",
+    "localities": [
+      {
+        "name_en": "Islamabad",
+        "name_es": "Islamabad"
+      },
+      {
+        "name_en": "Karachi",
+        "name_es": "Karachi"
+      },
+      {
+        "name_en": "Lahore",
+        "name_es": "Lahore"
+      },
+      {
+        "name_en": "Faisalabad",
+        "name_es": "Faisalabad"
+      }
+    ]
+  },
+  {
+    "name_en": "Palau",
+    "name_es": "Palaos",
+    "localities": [
+      {
+        "name_en": "Ngerulmud",
+        "name_es": "Ngerulmud"
+      }
+    ]
+  },
+  {
+    "name_en": "Palestine",
+    "name_es": "Palestina",
+    "localities": [
+      {
+        "name_en": "Ramallah",
+        "name_es": "Ramala"
+      },
+      {
+        "name_en": "Gaza",
+        "name_es": "Gaza"
+      }
+    ]
+  },
+  {
+    "name_en": "Panama",
+    "name_es": "Panamá",
+    "localities": [
+      {
+        "name_en": "Panama City",
+        "name_es": "Ciudad de Panamá"
+      }
+    ]
+  },
+  {
+    "name_en": "Papua New Guinea",
+    "name_es": "Papúa Nueva Guinea",
+    "localities": [
+      {
+        "name_en": "Port Moresby",
+        "name_es": "Port Moresby"
+      }
+    ]
+  },
+  {
+    "name_en": "Paraguay",
+    "name_es": "Paraguay",
+    "localities": [
+      {
+        "name_en": "Asunción",
+        "name_es": "Asunción"
+      }
+    ]
+  },
+  {
+    "name_en": "Peru",
+    "name_es": "Perú",
+    "localities": [
+      {
+        "name_en": "Lima",
+        "name_es": "Lima"
+      },
+      {
+        "name_en": "Arequipa",
+        "name_es": "Arequipa"
+      },
+      {
+        "name_en": "Trujillo",
+        "name_es": "Trujillo"
+      }
+    ]
+  },
+  {
+    "name_en": "French Polynesia",
+    "name_es": "Polinesia Francesa",
+    "localities": [
+      {
+        "name_en": "Papeete",
+        "name_es": "Papeete"
+      }
+    ]
+  },
+  {
+    "name_en": "Poland",
+    "name_es": "Polonia",
+    "localities": [
+      {
+        "name_en": "Warsaw",
+        "name_es": "Varsovia"
+      },
+      {
+        "name_en": "Kraków",
+        "name_es": "Cracovia"
+      },
+      {
+        "name_en": "Łódź",
+        "name_es": "Lodz"
+      },
+      {
+        "name_en": "Wrocław",
+        "name_es": "Breslavia"
+      }
+    ]
+  },
+  {
+    "name_en": "Portugal",
+    "name_es": "Portugal",
+    "localities": [
+      {
+        "name_en": "Lisbon",
+        "name_es": "Lisboa"
+      },
+      {
+        "name_en": "Porto",
+        "name_es": "Oporto"
+      }
+    ]
+  },
+  {
+    "name_en": "Puerto Rico",
+    "name_es": "Puerto Rico",
+    "localities": [
+      {
+        "name_en": "San Juan",
+        "name_es": "San Juan"
+      }
+    ]
+  },
+  {
+    "name_en": "United Kingdom",
+    "name_es": "Reino Unido",
+    "localities": [
+      {
+        "name_en": "London",
+        "name_es": "Londres"
+      },
+      {
+        "name_en": "Birmingham",
+        "name_es": "Birmingham"
+      },
+      {
+        "name_en": "Manchester",
+        "name_es": "Mánchester"
+      },
+      {
+        "name_en": "Glasgow",
+        "name_es": "Glasgow"
+      },
+      {
+        "name_en": "Liverpool",
+        "name_es": "Liverpool"
+      }
+    ]
+  },
+  {
+    "name_en": "Central African Republic",
+    "name_es": "República Centroafricana",
+    "localities": [
+      {
+        "name_en": "Bangui",
+        "name_es": "Bangui"
+      }
+    ]
+  },
+  {
+    "name_en": "Czech Republic",
+    "name_es": "República Checa",
+    "localities": [
+      {
+        "name_en": "Prague",
+        "name_es": "Praga"
+      },
+      {
+        "name_en": "Brno",
+        "name_es": "Brno"
+      },
+      {
+        "name_en": "Ostrava",
+        "name_es": "Ostrava"
+      }
+    ]
+  },
+  {
+    "name_en": "Dominican Republic",
+    "name_es": "República Dominicana",
+    "localities": [
+      {
+        "name_en": "Santo Domingo",
+        "name_es": "Santo Domingo"
+      }
+    ]
+  },
+  {
+    "name_en": "East Timor",
+    "name_es": "Timor Oriental",
+    "localities": [
+      {
+        "name_en": "Dili",
+        "name_es": "Dili"
+      }
+    ]
+  },
+  {
+    "name_en": "Réunion",
+    "name_es": "Reunión",
+    "localities": [
+      {
+        "name_en": "Saint-Denis",
+        "name_es": "Saint-Denis"
+      }
+    ]
+  },
+  {
+    "name_en": "Rwanda",
+    "name_es": "Ruanda",
+    "localities": [
+      {
+        "name_en": "Kigali",
+        "name_es": "Kigali"
+      }
+    ]
+  },
+  {
+    "name_en": "Romania",
+    "name_es": "Rumanía",
+    "localities": [
+      {
+        "name_en": "Bucharest",
+        "name_es": "Bucarest"
+      },
+      {
+        "name_en": "Cluj-Napoca",
+        "name_es": "Cluj-Napoca"
+      },
+      {
+        "name_en": "Timișoara",
+        "name_es": "Timisoara"
+      }
+    ]
+  },
+  {
+    "name_en": "Western Sahara",
+    "name_es": "Sahara Occidental",
+    "localities": [
+      {
+        "name_en": "El Aaiún",
+        "name_es": "El Aaiún"
+      }
+    ]
+  },
+  {
+    "name_en": "Saint Kitts and Nevis",
+    "name_es": "San Cristóbal y Nieves",
+    "localities": [
+      {
+        "name_en": "Basseterre",
+        "name_es": "Basseterre"
+      }
+    ]
+  },
+  {
+    "name_en": "San Marino",
+    "name_es": "San Marino",
+    "localities": [
+      {
+        "name_en": "San Marino",
+        "name_es": "San Marino"
+      },
+      {
+        "name_en": "Serravalle",
+        "name_es": "Serravalle"
+      }
+    ]
+  },
+  {
+    "name_en": "Saint Pierre and Miquelon",
+    "name_es": "San Pedro y Miquelón",
+    "localities": [
+      {
+        "name_en": "Saint-Pierre",
+        "name_es": "Saint-Pierre"
+      }
+    ]
+  },
+  {
+    "name_en": "Saint Vincent and the Grenadines",
+    "name_es": "San Vicente y las Granadinas",
+    "localities": [
+      {
+        "name_en": "Kingstown",
+        "name_es": "Kingstown"
+      }
+    ]
+  },
+  {
+    "name_en": "Saint Helena",
+    "name_es": "Santa Elena",
+    "localities": [
+      {
+        "name_en": "Jamestown",
+        "name_es": "Jamestown"
+      }
+    ]
+  },
+  {
+    "name_en": "Saint Lucia",
+    "name_es": "Santa Lucía",
+    "localities": [
+      {
+        "name_en": "Castries",
+        "name_es": "Castries"
+      }
+    ]
+  },
+  {
+    "name_en": "Sao Tome and Principe",
+    "name_es": "Santo Tomé y Príncipe",
+    "localities": [
+      {
+        "name_en": "São Tomé",
+        "name_es": "Santo Tomé"
+      }
+    ]
+  },
+  {
+    "name_en": "Senegal",
+    "name_es": "Senegal",
+    "localities": [
+      {
+        "name_en": "Dakar",
+        "name_es": "Dakar"
+      }
+    ]
+  },
+  {
+    "name_en": "Serbia",
+    "name_es": "Serbia",
+    "localities": [
+      {
+        "name_en": "Belgrade",
+        "name_es": "Belgrado"
+      },
+      {
+        "name_en": "Novi Sad",
+        "name_es": "Novi Sad"
+      }
+    ]
+  },
+  {
+    "name_en": "Seychelles",
+    "name_es": "Seychelles",
+    "localities": [
+      {
+        "name_en": "Victoria",
+        "name_es": "Victoria"
+      }
+    ]
+  },
+  {
+    "name_en": "Sierra Leone",
+    "name_es": "Sierra Leona",
+    "localities": [
+      {
+        "name_en": "Freetown",
+        "name_es": "Freetown"
+      }
+    ]
+  },
+  {
+    "name_en": "Singapore",
+    "name_es": "Singapur",
+    "localities": [
+      {
+        "name_en": "Singapore",
+        "name_es": "Singapur"
+      }
+    ]
+  },
+  {
+    "name_en": "Syria",
+    "name_es": "Siria",
+    "localities": [
+      {
+        "name_en": "Damascus",
+        "name_es": "Damasco"
+      },
+      {
+        "name_en": "Aleppo",
+        "name_es": "Alepo"
+      }
+    ]
+  },
+  {
+    "name_en": "Somalia",
+    "name_es": "Somalia",
+    "localities": [
+      {
+        "name_en": "Mogadishu",
+        "name_es": "Mogadiscio"
+      }
+    ]
+  },
+  {
+    "name_en": "Sri Lanka",
+    "name_es": "Sri Lanka",
+    "localities": [
+      {
+        "name_en": "Sri Jayawardenepura Kotte",
+        "name_es": "Sri Jayawardenepura Kotte"
+      },
+      {
+        "name_en": "Colombo",
+        "name_es": "Colombo"
+      }
+    ]
+  },
+  {
+    "name_en": "South Sudan",
+    "name_es": "Sudán del Sur",
+    "localities": [
+      {
+        "name_en": "Juba",
+        "name_es": "Yuba"
+      }
+    ]
+  },
+  {
+    "name_en": "Sudan",
+    "name_es": "Sudán",
+    "localities": [
+      {
+        "name_en": "Khartoum",
+        "name_es": "Jartum"
+      },
+      {
+        "name_en": "Omdurman",
+        "name_es": "Omdurmán"
+      }
+    ]
+  },
+  {
+    "name_en": "Sweden",
+    "name_es": "Suecia",
+    "localities": [
+      {
+        "name_en": "Stockholm",
+        "name_es": "Estocolmo"
+      },
+      {
+        "name_en": "Gothenburg",
+        "name_es": "Gotemburgo"
+      },
+      {
+        "name_en": "Malmö",
+        "name_es": "Malmö"
+      }
+    ]
+  },
+  {
+    "name_en": "Switzerland",
+    "name_es": "Suiza",
+    "localities": [
+      {
+        "name_en": "Bern",
+        "name_es": "Berna"
+      },
+      {
+        "name_en": "Zürich",
+        "name_es": "Zúrich"
+      },
+      {
+        "name_en": "Geneva",
+        "name_es": "Ginebra"
+      }
+    ]
+  },
+  {
+    "name_en": "Suriname",
+    "name_es": "Surinam",
+    "localities": [
+      {
+        "name_en": "Paramaribo",
+        "name_es": "Paramaribo"
+      }
+    ]
+  },
+  {
+    "name_en": "Eswatini",
+    "name_es": "Suazilandia",
+    "localities": [
+      {
+        "name_en": "Mbabane",
+        "name_es": "Mbabane"
+      },
+      {
+        "name_en": "Manzini",
+        "name_es": "Manzini"
+      }
+    ]
+  },
+  {
+    "name_en": "Thailand",
+    "name_es": "Tailandia",
+    "localities": [
+      {
+        "name_en": "Bangkok",
+        "name_es": "Bangkok"
+      },
+      {
+        "name_en": "Nonthaburi",
+        "name_es": "Nonthaburi"
+      },
+      {
+        "name_en": "Chiang Mai",
+        "name_es": "Chiang Mai"
+      }
+    ]
+  },
+  {
+    "name_en": "Taiwan",
+    "name_es": "Taiwán",
+    "localities": [
+      {
+        "name_en": "Taipei",
+        "name_es": "Taipéi"
+      }
+    ]
+  },
+  {
+    "name_en": "Tanzania",
+    "name_es": "Tanzania",
+    "localities": [
+      {
+        "name_en": "Dodoma",
+        "name_es": "Dodoma"
+      },
+      {
+        "name_en": "Dar es Salaam",
+        "name_es": "Dar es Salaam"
+      },
+      {
+        "name_en": "Mwanza",
+        "name_es": "Mwanza"
+      }
+    ]
+  },
+  {
+    "name_en": "Tajikistan",
+    "name_es": "Tayikistán",
+    "localities": [
+      {
+        "name_en": "Dushanbe",
+        "name_es": "Dusambé"
+      }
+    ]
+  },
+  {
+    "name_en": "East Timor",
+    "name_es": "Timor Oriental",
+    "localities": [
+      {
+        "name_en": "Dili",
+        "name_es": "Dili"
+      }
+    ]
+  },
+  {
+    "name_en": "Togo",
+    "name_es": "Togo",
+    "localities": [
+      {
+        "name_en": "Lomé",
+        "name_es": "Lomé"
+      }
+    ]
+  },
+  {
+    "name_en": "Tonga",
+    "name_es": "Tonga",
+    "localities": [
+      {
+        "name_en": "Nukuʻalofa",
+        "name_es": "Nukualofa"
+      }
+    ]
+  },
+  {
+    "name_en": "Trinidad and Tobago",
+    "name_es": "Trinidad y Tobago",
+    "localities": [
+      {
+        "name_en": "Port of Spain",
+        "name_es": "Puerto España"
+      }
+    ]
+  },
+  {
+    "name_en": "Tunisia",
+    "name_es": "Túnez",
+    "localities": [
+      {
+        "name_en": "Tunis",
+        "name_es": "Túnez"
+      }
+    ]
+  },
+  {
+    "name_en": "Turkmenistan",
+    "name_es": "Turkmenistán",
+    "localities": [
+      {
+        "name_en": "Ashgabat",
+        "name_es": "Asjabad"
+      }
+    ]
+  },
+  {
+    "name_en": "Turkey",
+    "name_es": "Turquía",
+    "localities": [
+      {
+        "name_en": "Ankara",
+        "name_es": "Ankara"
+      },
+      {
+        "name_en": "Istanbul",
+        "name_es": "Estambul"
+      },
+      {
+        "name_en": "Izmir",
+        "name_es": "Esmirna"
+      },
+      {
+        "name_en": "Bursa",
+        "name_es": "Bursa"
+      }
+    ]
+  },
+  {
+    "name_en": "Tuvalu",
+    "name_es": "Tuvalu",
+    "localities": [
+      {
+        "name_en": "Funafuti",
+        "name_es": "Funafuti"
+      }
+    ]
+  },
+  {
+    "name_en": "Ukraine",
+    "name_es": "Ucrania",
+    "localities": [
+      {
+        "name_en": "Kyiv",
+        "name_es": "Kiev"
+      },
+      {
+        "name_en": "Kharkiv",
+        "name_es": "Járkov"
+      },
+      {
+        "name_en": "Odesa",
+        "name_es": "Odesa"
+      },
+      {
+        "name_en": "Dnipro",
+        "name_es": "Dnipró"
+      }
+    ]
+  },
+  {
+    "name_en": "Uganda",
+    "name_es": "Uganda",
+    "localities": [
+      {
+        "name_en": "Kampala",
+        "name_es": "Kampala"
+      }
+    ]
+  },
+  {
+    "name_en": "Uruguay",
+    "name_es": "Uruguay",
+    "localities": [
+      {
+        "name_en": "Montevideo",
+        "name_es": "Montevideo"
+      }
+    ]
+  },
+  {
+    "name_en": "Uzbekistan",
+    "name_es": "Uzbekistán",
+    "localities": [
+      {
+        "name_en": "Tashkent",
+        "name_es": "Taskent"
+      },
+      {
+        "name_en": "Samarkand",
+        "name_es": "Samarcanda"
+      },
+      {
+        "name_en": "Namangan",
+        "name_es": "Namangan"
+      }
+    ]
+  },
+  {
+    "name_en": "Vanuatu",
+    "name_es": "Vanuatu",
+    "localities": [
+      {
+        "name_en": "Port Vila",
+        "name_es": "Port Vila"
+      }
+    ]
+  },
+  {
+    "name_en": "Vatican City",
+    "name_es": "Ciudad del Vaticano",
+    "localities": [
+      {
+        "name_en": "Vatican City",
+        "name_es": "Ciudad del Vaticano"
+      }
+    ]
+  },
+  {
+    "name_en": "Venezuela",
+    "name_es": "Venezuela",
+    "localities": [
+      {
+        "name_en": "Caracas",
+        "name_es": "Caracas"
+      },
+      {
+        "name_en": "Maracaibo",
+        "name_es": "Maracaibo"
+      },
+      {
+        "name_en": "Valencia",
+        "name_es": "Valencia"
+      }
+    ]
+  },
+  {
+    "name_en": "Vietnam",
+    "name_es": "Vietnam",
+    "localities": [
+      {
+        "name_en": "Hanoi",
+        "name_es": "Hanói"
+      },
+      {
+        "name_en": "Ho Chi Minh City",
+        "name_es": "Ciudad Ho Chi Minh"
+      },
+      {
+        "name_en": "Haiphong",
+        "name_es": "Haiphong"
+      },
+      {
+        "name_en": "Da Nang",
+        "name_es": "Da Nang"
+      }
+    ]
+  },
+  {
+    "name_en": "Wallis and Futuna",
+    "name_es": "Wallis y Futuna",
+    "localities": [
+      {
+        "name_en": "Mata-Utu",
+        "name_es": "Mata-Utu"
+      }
+    ]
+  },
+  {
+    "name_en": "Yemen",
+    "name_es": "Yemen",
+    "localities": [
+      {
+        "name_en": "Sana'a",
+        "name_es": "Saná"
+      }
+    ]
+  },
+  {
+    "name_en": "Djibouti",
+    "name_es": "Yibuti",
+    "localities": [
+      {
+        "name_en": "Djibouti",
+        "name_es": "Yibuti"
+      }
+    ]
+  },
+  {
+    "name_en": "Zambia",
+    "name_es": "Zambia",
+    "localities": [
+      {
+        "name_en": "Lusaka",
+        "name_es": "Lusaka"
+      }
+    ]
+  },
+  {
+    "name_en": "Zimbabwe",
+    "name_es": "Zimbabue",
+    "localities": [
+      {
+        "name_en": "Harare",
+        "name_es": "Harare"
+      }
+    ]
+  }
+]
