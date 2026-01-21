@@ -1,0 +1,8 @@
+clau;info_general;;;;estat;;;venedor;;;;ubicacio;;;
+;categoria;titol;preu;data_publicacio;condicio;garantia;us;nif;nom;telefon;mail;ciutat;illa;latitud;longitud
+1;Electrònica;iPhone 11 128GB;350;12/03/2024;bona;;2 anys;11111111A;Joan Ferrer;612345678;jferrer@email.com;Palma;Mallorca;;
+2;Electrònica;Portàtil Lenovo ThinkPad;520;05/11/2023;molt bona;6 mesos;1 any;22222222B;Maria Pons;;mpons@email.com;Inca;Mallorca;39.721.200;2.910.300
+3;Mobles;Sofà de 3 places;180;20/09/2022;acceptable;;5 anys;;Pere Llull;699887766;;Manacor;Mallorca;;
+4;Esport;Bicicleta de muntanya;275;18/01/2024;bona;;3 anys;;Aina Moll;;aina.moll@email.com;Ciutadella;Menorca;39.999.000;3.840.000
+5;Electrònica;"Televisor Samsung 55""";600;30/06/2023;molt bona;1 any;2 anys;55555555E;David Riera;688554433;;Maó;Menorca;;
+6;Fotografia;Càmera rèflex Canon;450;02/04/2024;bona;;4 anys;66666666F;Laura Torres;;laura.torres@email.com;Eivissa;Eivissa;38.906.700;1.420.600
